@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React.js,CSS,HTML,Arduino**
 
-- 📫 How to reach me [Drop a mail](**msayantan05@gmail.com**)
+- 📫 How to reach me [Drop a mail](mailto:msayantan05@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VOWBDBe_4Q71TR-3C7fZ8okh1-jcZ1VK/view?usp=sharing)
 
