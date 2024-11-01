@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Developing a low cost solar Irradiance Monitoring Device**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sayantanmandal1?tab=repositories](https://github.com/sayantanmandal1?tab=repositories)
+- 👨‍💻 All of my projects are available at [My github repositories](https://github.com/sayantanmandal1?tab=repositories)
 
 - 💬 Ask me about **React.js,CSS,HTML,Arduino**
 
-- 📫 How to reach me **msayantan05@gmail.com**
+- 📫 How to reach me [Drop a mail](**msayantan05@gmail.com**)
 
-- 📄 Know about my experiences [https://drve.google.com/file/d/1VOWBDBe_4Q71TR-3C7fZ8okh1-jcZ1VK/view?usp=sharing](https://drive.google.com/file/d/1VOWBDBe_4Q71TR-3C7fZ8okh1-jcZ1VK/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VOWBDBe_4Q71TR-3C7fZ8okh1-jcZ1VK/view?usp=sharing)
 
 - ⚡ Fun fact **I like to be funny**
 
