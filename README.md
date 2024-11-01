@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **msayantan05@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VOWBDBe_4Q71TR-3C7fZ8okh1-jcZ1VK/view?usp=sharing](https://drive.google.com/file/d/1VOWBDBe_4Q71TR-3C7fZ8okh1-jcZ1VK/view?usp=sharing)
+- 📄 Know about my experiences [https://drve.google.com/file/d/1VOWBDBe_4Q71TR-3C7fZ8okh1-jcZ1VK/view?usp=sharing](https://drive.google.com/file/d/1VOWBDBe_4Q71TR-3C7fZ8okh1-jcZ1VK/view?usp=sharing)
 
 - ⚡ Fun fact **I like to be funny**
 
