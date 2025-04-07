@@ -12,7 +12,7 @@
 
 - 📫 How to reach me [Drop a mail](mailto:msayantan05@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VOWBDBe_4Q71TR-3C7fZ8okh1-jcZ1VK/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wdQg84B6FKS1mKsiYxvoJgkJuHjzmS1y/view?usp=sharing)
 
 - ⚡ Fun fact **I like to be funny**
 
