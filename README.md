@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [My github repositories](https://github.com/sayantanmandal1?tab=repositories)
 
-- 💬 Ask me about **React.js,CSS,HTML,Arduino**
+- 💬 Ask me about **Full Stack Development, Data Science**
 
 - 📫 How to reach me [Drop a mail](mailto:msayantan05@gmail.com)
 
