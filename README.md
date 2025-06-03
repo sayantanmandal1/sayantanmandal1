@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantanmandal1&label=Profile%20views&color=0e75b6&style=flat" alt="sayantanmandal1" /> </p>
 
-- 🔭 I’m currently working on **Developing a low cost solar Irradiance Monitoring Device**
+- 🔭 I’m currently working on **self-healing CI/CD automation using GitHub Actions**
 
 - 👨‍💻 All of my projects are available at [My github repositories](https://github.com/sayantanmandal1?tab=repositories)
 
