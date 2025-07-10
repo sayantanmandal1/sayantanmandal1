@@ -1,39 +1,129 @@
+<!--START_ACTIVE_TASKS-->
+<!--END_ACTIVE_TASKS-->
 
-<h1 align="center">Hi 👋, I'm Sayantan Mandal</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<!-- FAANG-Ready SDE GitHub Profile README -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantanmandal1&label=Profile%20views&color=0e75b6&style=flat" alt="sayantanmandal1" /> </p>
-
-- 🔭 I’m currently working on **self-healing CI/CD automation using GitHub Actions**
-
-- 👨‍💻 All of my projects are available at [My github repositories](https://github.com/sayantanmandal1?tab=repositories)
-
-- 💬 Ask me about **Full Stack Development, Data Science**
-
-- 📫 How to reach me [Drop a mail](mailto:msayantan05@gmail.com)
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wdQg84B6FKS1mKsiYxvoJgkJuHjzmS1y/view?usp=sharing)
-
-- ⚡ Fun fact **I like to be funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sayantan-mandal-8a14b7202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayantan-mandal-8a14b7202" height="30" width="40" /></a>
-<a href="https://kaggle.com/sayantan1243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sayantan1243" height="30" width="40" /></a>
-<a href="https://instagram.com/ig_sayantan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_sayantan_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/venom-op-0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="venom-op-0" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/such_hearth_58" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="such_hearth_58" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sayantan_22bce81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayantan_22bce81" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sayantan.22bce8533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sayantan.22bce8533" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sayonara1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="2roqklgr5s" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sayantan_22bce81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sayantan_22bce81" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/msayan2x3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="msayan2x3d" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sayantan+Mandal!;Software+Development+Engineer;Building+Scalable+Systems;Passionate+About+Clean+Code" alt="Typing SVG"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayantanmandal1&show_icons=true&locale=en&layout=compact" alt="sayantanmandal1" /></p>
 
-<img src="https://raw.githubusercontent.com/sayantanmandal1/sayantanmandal1/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <a href="https://github.com/sayantanmandal1?tab=followers"><img src="https://img.shields.io/github/followers/sayantanmandal1?label=Followers&style=social" alt="GitHub Followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sayantanmandal1&label=Profile%20views&color=36BCF7&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Status-Actively%20Seeking%20SDE%20Roles-green"/>
+  <img src="https://img.shields.io/badge/Location-Open%20to%20Relocation-blue"/>
+</p>
+
+---
+
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  <b>Software Development Engineer</b> with expertise in building scalable, high-performance systems and distributed applications.<br/>
+  <b>Core Strengths:</b> System Design, Data Structures & Algorithms, Microservices Architecture, Cloud-Native Development<br/>
+  <b>Passion:</b> Writing clean, maintainable code and solving complex engineering challenges
+</p>
+
+---
+
+<h2 align="center">💼 Professional Experience</h2>
+
+<p align="center">
+  <b>Software Engineer</b> | Building scalable web applications and microservices<br/>
+  <b>Key Achievements:</b> Reduced API response time by 40%, implemented CI/CD pipelines, designed RESTful APIs<br/>
+  <b>Technologies:</b> Java, Python, TypeScript, React, Node.js, AWS, Docker, PostgreSQL
+</p>
+
+---
+
+<h2 align="center">🛠️ Technical Skills</h2>
+
+<p align="center">
+  <b>Programming Languages:</b><br/>
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,mysql"/>
+  <br/>
+  <b>Backend & Frameworks:</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,express,postman"/>
+  <br/>
+  <b>Frontend & Libraries:</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+  <br/>
+  <b>Cloud & DevOps:</b><br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,linux,kubernetes"/>
+  <br/>
+  <b>Databases & Tools:</b><br/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,dynamodb,redis"/>
+  <br/>
+  <b>Data Science & ML:</b><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv"/>
+</p>
+
+---
+
+<h2 align="center">🎯 Core Competencies</h2>
+
+<p align="center">
+  <b>System Design:</b> Microservices, REST APIs, Scalable Architecture<br/>
+  <b>Data Structures & Algorithms:</b> Advanced problem-solving, Optimization<br/>
+  <b>Software Engineering:</b> Clean Code, Design Patterns, Testing, CI/CD<br/>
+  <b>Cloud & Infrastructure:</b> AWS/GCP, Containerization, DevOps<br/>
+  <b>Database Design:</b> SQL/NoSQL, Query Optimization, Data Modeling
+</p>
+
+---
+
+<h2 align="center">🌟 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/sayantanmandal1/ai-resume-checker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sayantanmandal1&repo=ai-resume-checker&theme=react&show_owner=true"/></a>
+  <a href="https://github.com/sayantanmandal1/sign-recognition"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sayantanmandal1&repo=sign-recognition&theme=react&show_owner=true"/></a>
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Stats & Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayantanmandal1&show_icons=true&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayantanmandal1&layout=compact&theme=react"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sayantanmandal1/sayantanmandal1/output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+<h2 align="center">🏆 Competitive Programming</h2>
+
+<p align="center">
+  <a href="https://www.leetcode.com/sayonara1337"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/sayantan_22bce81"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/sayantan.22bce8533"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/such_hearth_58"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/msayan2x3d"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+</p>
+
+---
+
+<h2 align="center">🤝 Connect with Me</h2>
+
+<p align="center">
+  <a href="mailto:msayantan05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sayantan-mandal-8a14b7202"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://kaggle.com/sayantan1243"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1e_zGr0Ld9mUR9C1HLHjMGN8aV77l1jcO/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive&logoColor=white"/></a>
+</p>
+
+<!--
+  Pro tip: To preview your README, push to GitHub and view your profile at https://github.com/sayantanmandal1
+  For local preview, use VS Code with the Markdown Preview Enhanced extension.
+-->
 

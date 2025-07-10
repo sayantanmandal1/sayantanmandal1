@@ -1,1 +1,94 @@
- 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="devGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#36BCF7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2D3748;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <style>
+    .background { fill: url(#bgGradient); }
+    .developer { fill: url(#devGradient); }
+    .code { fill: #2D3748; font-family: 'Courier New', monospace; font-size: 10px; }
+    .cursor { fill: #36BCF7; }
+    
+    .typing { animation: typing 2s infinite; }
+    .floating { animation: floating 3s ease-in-out infinite; }
+    .pulse { animation: pulse 2s ease-in-out infinite; }
+    
+    @keyframes typing {
+      0%, 50% { opacity: 1; }
+      51%, 100% { opacity: 0; }
+    }
+    
+    @keyframes floating {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-10px); }
+    }
+    
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.1); }
+    }
+  </style>
+  
+  <!-- Background -->
+  <rect width="400" height="300" class="background"/>
+  
+  <!-- Developer figure -->
+  <g class="floating">
+    <!-- Head -->
+    <circle cx="200" cy="80" r="25" class="developer"/>
+    <!-- Body -->
+    <rect x="175" y="105" width="50" height="60" rx="10" class="developer"/>
+    <!-- Arms -->
+    <rect x="155" y="115" width="20" height="8" rx="4" class="developer"/>
+    <rect x="225" y="115" width="20" height="8" rx="4" class="developer"/>
+  </g>
+  
+  <!-- Code window -->
+  <g transform="translate(50, 180)">
+    <!-- Window frame -->
+    <rect x="0" y="0" width="300" height="80" rx="8" fill="#1A202C" stroke="#36BCF7" stroke-width="2"/>
+    <!-- Window title bar -->
+    <rect x="0" y="0" width="300" height="20" rx="6" fill="#2D3748"/>
+    <!-- Window buttons -->
+    <circle cx="15" cy="10" r="4" fill="#FF6B6B"/>
+    <circle cx="30" cy="10" r="4" fill="#FFD93D"/>
+    <circle cx="45" cy="10" r="4" fill="#6BCF7F"/>
+    
+    <!-- Code content -->
+    <text x="10" y="35" class="code">
+      <tspan x="10" dy="0">function buildAwesome() {</tspan>
+      <tspan x="20" dy="15">return "Hello World!";</tspan>
+      <tspan x="10" dy="15">}</tspan>
+    </text>
+    
+    <!-- Animated cursor -->
+    <rect x="190" y="45" width="2" height="12" class="cursor typing"/>
+  </g>
+  
+  <!-- Floating code elements -->
+  <g class="pulse">
+    <text x="320" y="100" class="code" transform="rotate(15 320 100)">const</text>
+    <text x="50" y="50" class="code" transform="rotate(-10 50 50)">let</text>
+    <text x="350" y="150" class="code" transform="rotate(20 350 150)">async</text>
+  </g>
+  
+  <!-- Decorative elements -->
+  <circle cx="100" cy="60" r="3" fill="#FF6B6B"/>
+  <circle cx="300" cy="100" r="3" fill="#4ECDC4"/>
+  <circle cx="80" cy="200" r="2" fill="#45B7D1"/>
+  
+  <!-- Connection lines -->
+  <g stroke="#36BCF7" stroke-width="1" opacity="0.3">
+    <line x1="200" y1="80" x2="100" y2="60"/>
+    <line x1="200" y1="80" x2="300" y2="100"/>
+    <line x1="200" y1="80" x2="80" y2="200"/>
+  </g>
+</svg> 
