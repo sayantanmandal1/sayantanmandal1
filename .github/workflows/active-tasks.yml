@@ -40,6 +40,8 @@ jobs:
 
       - name: Update README.md
         uses: actions/github-script@v7
+        env:
+          ACTIVE_TASKS: ${{ steps.fetch_issues.outputs.active_tasks }}
         with:
           script: |
             const fs = require('fs');
@@ -47,10 +49,11 @@ jobs:
             const start = '<!--START_ACTIVE_TASKS-->';
             const end = '<!--END_ACTIVE_TASKS-->';
             const readme = fs.readFileSync(readmePath, 'utf8');
-            const activeTasks = '${{ steps.fetch_issues.outputs.active_tasks }}' || `\n_No active tasks at the moment!_\n`;
+            const activeTasks = process.env.ACTIVE_TASKS || '\n_No active tasks at the moment!_\n';
             const newSection = `${start}\n${activeTasks}${end}`;
-            const newReadme = readme.replace(new RegExp(`${start}[\s\S]*${end}`), newSection);
+            const newReadme = readme.replace(new RegExp(`${start}[\\s\\S]*${end}`), newSection);
             fs.writeFileSync(readmePath, newReadme);
+          
 
       - name: Commit and push if changed
         run: |
