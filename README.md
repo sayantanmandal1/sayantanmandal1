@@ -4,7 +4,7 @@
 <!-- FAANG-Ready SDE GitHub Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sayantan+Mandal!;Software+Development+Engineer;Building+Scalable+Systems;Passionate+About+Clean+Code" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sayantan!;Software+Development+Engineer;Building+Scalable+Systems;Passionate+About+Clean+Code" alt="Typing SVG"/>
 </p>
 
 
