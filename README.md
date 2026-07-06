@@ -77,8 +77,6 @@ A few fixes I've sent upstream to libraries I use:
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-825%2B%20solved-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/sayonara1337/)
 &nbsp;
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/sayantan.22bce8533)
-&nbsp;
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/such_hearth_58)
 
 ---
